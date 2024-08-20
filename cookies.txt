@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.codecanyon.net	TRUE	/	FALSE	1999999999	__cf_bm	dB1NDv90iBdrDS5wn_QNnt9F5vueHXzHbyPaAUni_RI-1723424124-1.0.1.1-cPYQLYwgLIJovbFfQFc1KfGqRSiW1KbmQgzftlhtAvGlMYbtEaNvKMOHKNt4_Jej0Re0gnQbBET5UVQy4AQA5g
+preview.codecanyon.net	TRUE	/	FALSE	1999999999	SameSite	None
+

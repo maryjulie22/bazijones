@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Aug 2024 01:55:09 at https://preview.codecanyon.net/item/p2p-trading-addon-for-bicrypto-p2p-livechat-offers-moderation/full_screen_preview/44593497?_ga=2.124310478.557807225.1723453417-1901562869.1723453417 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.codecanyon.net/item/p2p-trading-addon-for-bicrypto-p2p-livechat-offers-moderation/full_screen_preview/44593497?_ga=2.124310478.557807225.1723453417-1901562869.1723453417 -O1 "C:\Users\Techink\Desktop\p2p  site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:55:13	Warning: 	Link https://preview.codecanyon.net/item/p2p-trading-addon-for-bicrypto-p2p-livechat-offers-moderation/full_screen_preview/44593497?_ga=2.124310478.557807225.1723453417-1901562869.1723453417 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 4 links scanned, 3 files written (94355 bytes overall) [78375 bytes received at 19593 bytes/sec], 28268 bytes transferred using HTTP compression in 2 files, ratio 30%
+(No errors, 1 warnings, 0 messages)
